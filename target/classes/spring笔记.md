@@ -1,0 +1,1 @@
+## spring 注入@autowire的成员变量，自身也必须加以componet注解，否则直接new 一个对象是注入不了spring初始化的成员变量的
